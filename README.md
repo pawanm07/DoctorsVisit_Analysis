@@ -54,6 +54,6 @@ This project dives deep into healthcare data analysis to understand patterns and
 
 ![Distribution of Doctor Visits Across Different Age Group](https://github.com/pawanm07/DoctorsVisit_Analysis/blob/main/Plot1.png)
 
-![Doctor Visits, Income, and Chronic Condition Status](images/chart3.png)
+![Doctor Visits, Income, and Chronic Condition Status](https://github.com/pawanm07/DoctorsVisit_Analysis/blob/main/Plot5.png)
 
 
