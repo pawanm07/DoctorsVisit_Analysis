@@ -52,7 +52,7 @@ This project dives deep into healthcare data analysis to understand patterns and
 4. **Box Plot**: Doctor visits by age group and gender.
 5. **Heatmap**: Correlation between key variables.
 
-![Distribution of Doctor Visits Across Different Age Group](images/chart3.png)
+![Distribution of Doctor Visits Across Different Age Group](https://github.com/pawanm07/DoctorsVisit_Analysis/blob/main/Plot1.png)
 
 ![Doctor Visits, Income, and Chronic Condition Status](images/chart3.png)
 
